@@ -1,0 +1,67 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "eventDescription": "An exciting opportunity to connect and share ideas.",
+        "eventName": "Meetup 2025",
+        "linkText": "Join Us Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where tech enthusiasts connect, exchange ideas, and grow together.",
+        "title": "Welcome to Yay: Share, Learn, Innovate!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into a world where tech enthusiasts connect, exchange ideas, and grow together.",
+        "title": "Welcome to Yay: Share, Learn, Innovate!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into a world where tech enthusiasts connect, exchange ideas, and grow together.",
+        "title": "Welcome to Yay: Share, Learn, Innovate!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "description": "Dive into our blog to stay updated with the latest advancements in the tech stack. Sharpen your skills and knowledge with our in-depth articles and expert insights.",
+        "linkText": "Start Reading",
+        "titlePart1": "Stay Ahead in Tech.",
+        "titlePart2": "Explore the Latest in Tech Innovation."
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into a world where tech enthusiasts connect, exchange ideas, and grow together.",
+        "title": "Welcome to Yay: Share, Learn, Innovate!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into a world where tech enthusiasts connect, exchange ideas, and grow together.",
+        "title": "Welcome to Yay: Share, Learn, Innovate!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where tech enthusiasts connect, exchange ideas, and grow together.",
+        "title": "Welcome to Yay: Share, Learn, Innovate!"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Welcome to Yay: Share, Learn, Innovate!",
+  "subtitle": "Dive into a world where tech enthusiasts connect, exchange ideas, and grow together."
+}
